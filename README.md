@@ -21,8 +21,24 @@ For this capstone project we will be analyzing some 911 call data from [Kaggle](
 
 ### Dataframe Used : 
 
-![Head Of the DataFrame](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/2022-09-05_07-54.png)
+![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/2022-09-05_07-54.png)
 
 #### Basic Questions :
 
 ##### Top Five Zip Codes Used : 
+
+![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/5%20Zip.png)
+
+##### Top 5 Townships : 
+
+![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/5%20Townships.png)
+
+#### Creating New Features :
+
+In the titles column there are "Reasons/Departments" specified before the title code. These are EMS, Fire, and Traffic. Create a new column called "Reason" that contains this string value.
+
+*For example, if the title column value is EMS: BACK PAINS/INJURY , the Reason column value would be EMS. *
+
+<b>New DataFrame(with reason column):</b>
+
+![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/Reason%20DF.png)
