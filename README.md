@@ -1,6 +1,3 @@
-remote_theme: pages-themes/slate@v0.2.0
-
-plugins:- jekyll-remote-theme
 # 911calls_data_capstone_project
 Data Science Project on analyzing 911 calls data from kaggle.
 
