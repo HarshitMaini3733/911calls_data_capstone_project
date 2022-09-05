@@ -21,17 +21,17 @@ For this capstone project we will be analyzing some 911 call data from [Kaggle](
 
 ### Dataframe Used : 
 
-![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/2022-09-05_07-54.jpg)
+![](Images/2022-09-05_07-54.jpg)
 
 #### Basic Questions :
 
 ##### Top Five Zip Codes Used : 
 
-![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/5%20Zip.jpg)
+![](Images/5%20Zip.jpg)
 
 ##### Top 5 Townships : 
 
-![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/5%20Townships.jpg)
+![](Images/5%20Townships.jpg)
 
 #### Creating New Features :
 
@@ -41,4 +41,4 @@ In the titles column there are "Reasons/Departments" specified before the title 
 
 <b>New DataFrame(with reason column):</b>
 
-![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/Reason%20DF.jpg)
+![](Images/Reason%20DF.jpg)
