@@ -31,7 +31,7 @@ For this capstone project we will be analyzing some 911 call data from [Kaggle](
 
 ##### Top 5 Townships : 
 
-![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/5%20Townships.png)
+![](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/5%20Townships.jpg)
 
 #### Creating New Features :
 
