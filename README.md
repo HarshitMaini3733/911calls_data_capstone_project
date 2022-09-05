@@ -42,3 +42,11 @@ In the titles column there are "Reasons/Departments" specified before the title 
 <b>New DataFrame(with reason column):</b>
 
 ![](Images/Reason%20DF.jpg)
+
+##### The most common REASONS for this 911 calls : 
+
+![](Images/CommonReason.png)
+
+##### The CountPlot of 911 calls by Reason :
+
+![](Images/countplotreason.png)
