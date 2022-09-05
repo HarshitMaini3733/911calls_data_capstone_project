@@ -62,3 +62,11 @@ In the titles column there are "Reasons/Departments" specified before the title 
 ##### Create a countplot of the Month column with the hue based off of the Reason column.
 
 ![](Images/CountPlot_Month.png)
+
+##### Now as some months are missing ,filling in this information by plotting the information in another way, possibly a simple line plot that fills in the missing months, in order to do this, group the dataframe with respect to months
+
+![](Images/GroupByMonthDF.png)
+
+##### Create a simple plot off of the dataframe indicating the count of calls per month : 
+
+![](Images/Line_PlotMonth.png)
