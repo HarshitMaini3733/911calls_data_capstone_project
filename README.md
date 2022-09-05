@@ -41,7 +41,7 @@ In the titles column there are "Reasons/Departments" specified before the title 
 
 <b>New DataFrame(with reason column):</b>
 
-![](Images/Reason%20DF.jpg)
+![](Images/ReasonDF.png)
 
 ##### The most common REASONS for this 911 calls : 
 
@@ -51,9 +51,9 @@ In the titles column there are "Reasons/Departments" specified before the title 
 
 ![](Images/countplotreason.png)
 
-##### Seperating date, day of week and month from the timestamp column and creating the new column for each.
+##### Seperating hour,day of week and month from the timestamp column and creating the new column for each.
 
-![](Images/day_month_date_df.png)
+![](Images/day_month.png)
 
 ##### Create a countplot of the Day of Week column with the hue based off of the Reason column : 
 
@@ -74,3 +74,43 @@ In the titles column there are "Reasons/Departments" specified before the title 
 ##### Create a linear fit on the number of calls per month : 
 
 ![](Images/LinearFitMonth.png)
+
+##### Create a new column called 'Date' that contains the date from the timeStamp column :
+
+![](Images/date)
+
+##### Groupby this Date column with the count() aggregate and create a plot of counts of 911 calls : 
+
+![](Images/Plot1.png)
+
+##### Recreate the above plot but create 3 separate plots with each plot representing a Reason for the 911 call :
+
+![](Images/Plot2.png)
+
+![](Images/Plot3.png)
+
+![](Images/Plot4.png)
+
+##### Reconstructing the dataframe to make hours as column and index to be day of week
+
+![](Images/Plot5.png)
+
+##### Create the heatmap of the above dataframe
+
+![](Images/Plot6.png)
+
+##### Create the clustermap of the same
+
+![](Images/Plot7.png)
+
+##### Now a dataframe with Month as the column and index to be day of week
+
+![](Images/Plot8.png)
+
+##### Create the heatmap of the above dataframe
+
+![](Images/Plot9.png)
+
+##### Create the clustermap of the same
+
+![](Images/Plot10.png)
