@@ -50,3 +50,7 @@ In the titles column there are "Reasons/Departments" specified before the title 
 ##### The CountPlot of 911 calls by Reason :
 
 ![](Images/countplotreason.png)
+
+#####Seperating date, day of week and month from the timestamp column and creating the new column for each.
+
+![](Images/day_month_date_df.png)
