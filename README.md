@@ -22,3 +22,7 @@ For this capstone project we will be analyzing some 911 call data from [Kaggle](
 ### Dataframe Used : 
 
 ![Head Of the DataFrame](https://github.com/TatyaVichu/911calls_data_capstone_project/blob/main/Images/2022-09-05_07-54.png)
+
+#### Basic Questions :
+
+##### Top Five Zip Codes Used : 
