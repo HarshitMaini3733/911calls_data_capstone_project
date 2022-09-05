@@ -16,5 +16,3 @@ For this capstone project we will be analyzing some 911 call data from [Kaggle](
 <li>addr: String variable, Address</li>
 <li>e: String variable, Dummy variable (always 1)</li>
 </ul>
-
-Just go along with this notebook and try to complete the instructions or answer the questions in bold using your Python and Data Science skills!
