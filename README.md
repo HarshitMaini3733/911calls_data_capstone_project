@@ -70,3 +70,7 @@ In the titles column there are "Reasons/Departments" specified before the title 
 ##### Create a simple plot off of the dataframe indicating the count of calls per month : 
 
 ![](Images/Line_PlotMonth.png)
+
+##### Create a linear fit on the number of calls per month : 
+
+![](Images/LinearFitMonth.png)
